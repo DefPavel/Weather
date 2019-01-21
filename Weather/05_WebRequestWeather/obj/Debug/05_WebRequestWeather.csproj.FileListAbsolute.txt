@@ -1,0 +1,17 @@
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\bin\Debug\05_WebRequestWeather.exe.config
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\bin\Debug\05_WebRequestWeather.exe
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\bin\Debug\05_WebRequestWeather.pdb
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather.csprojAssemblyReference.cache
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\MainWindow.g.cs
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\App.g.cs
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather_MarkupCompile.cache
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather_MarkupCompile.lref
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\MainWindow.baml
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather.g.resources
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\_05_WebRequestWeather.Properties.Resources.resources
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather.csproj.GenerateResource.cache
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather.csproj.CoreCompileInputs.cache
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather.exe
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\05_WebRequestWeather.pdb
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\Options.g.cs
+D:\Docs\6 ПИ\Практика\Examples\05_WebRequestWeather\05_WebRequestWeather\obj\Debug\Options.baml
